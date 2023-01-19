@@ -33,21 +33,10 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["无影博客", "https://wyblog1.tk", "https://661111.github.io/media/images/custom-headerLogo.ico"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
         # 比如 https://elizen.me/hello.xml ，填写：
-        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "index.xml"],
-        ["Innei", "https://innei.ren/", "https://api.innei.ren/v2/objects/avatar/zzv2jig76w8x33vxi6.jpg", "feed"],
-        ["Timochan", "https://www.timochan.cn/", "https://api.timochan.cn/apc/objects/icon/svhozp8tzm9vv9tu1v.png", "feed"],
-        ["BBing’s Blog", "https://imcbc.cn/", "https://bu.dusays.com/2022/06/20/62affefe3f2d4.png", "index.xml"],
-        ["Ariasakaの小窝", "https://yisous.xyz/", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png", "atom.xml"],
-        ["Mycpen", "https://cpen.top/", "https://image.cpen.top/image/avatar.jpg", "atom.xml"],
-        ["Black Flies", "https://www.yyyzyyyz.cn/", "https://www.yyyzyyyz.cn/butterflyimg/img/favicon.png", "rss2.xml"],
-        ["凌夕博客", "https://blog.lxbkw.com/", "https://blog.lxbkw.com/content/templates/emlog_dux/logo.php", "rss2.xml"],
-        ["荷戟独彷徨", "https://guanqr.com/", "https://raw.githubusercontent.com/guanqr/blog/master/static/icons/android-chrome-512x512.png", "atom.xml"],
-        ["dearxuan", "https://blog.dearxuan.com/", "https://portrait.gitee.com/uploads/avatars/user/3212/9636702_dearxuan_1633682585.png!avatar200", "atom.xml"],
     ]
 }
 
